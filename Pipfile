@@ -8,6 +8,10 @@ requests = "*"
 beautifulsoup4 = "*"
 django = "*"
 selenium = "*"
+pandas = "*"
+webdriver-manager = "*"
+lxml = "*"
+html5lib = "*"
 
 [dev-packages]
 
